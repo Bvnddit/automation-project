@@ -1,0 +1,11 @@
+Tarea: Respaldar archivos
+Estado: Pendiente
+Fecha: 2026-01-13
+
+Tarea: Actualizar sistema
+Estado: Terminado
+Fecha: 2026-01-12
+
+Tarea: Revisar logs
+Estado: Pendiente
+Fecha: 2026-01-13
